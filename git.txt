@@ -1,0 +1,29 @@
+[33mcommit 1a18defd83038e5f4635255ebda384737a0e57b6[m
+Author: Terry D'Entremont <tdentremont@cpac.ca>
+Date:   Thu May 18 15:05:05 2017 -0400
+
+    rearange the items to bring on a trip
+
+[33mcommit 2b247701361b48bcece1296baf03aee0c27a96c5[m
+Author: Terry D'Entremont <tdentremont@cpac.ca>
+Date:   Thu May 18 14:34:55 2017 -0400
+
+    Removed contractions from contact page text
+
+[33mcommit fa33450b67a75d188d8e7904d96a527d5259163a[m
+Author: Terry D'Entremont <tdentremont@cpac.ca>
+Date:   Thu May 18 14:34:14 2017 -0400
+
+    Renamed backpack Cal file for clarity
+
+[33mcommit 73bacc3fe40085e145530e50275c84516a8b3efd[m
+Author: Terry D'Entremont <tdentremont@cpac.ca>
+Date:   Thu May 11 15:55:13 2017 -0400
+
+    bulk files commit changed suppor number
+
+[33mcommit 9480fa2ba3c75f60b5525d9221b461ecd158e3f7[m
+Author: Terry D'Entremont <tdentremont@cpac.ca>
+Date:   Thu May 11 15:44:21 2017 -0400
+
+    initial commit
